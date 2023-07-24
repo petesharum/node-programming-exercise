@@ -1,2 +1,2 @@
 # node-programming-exercise
-Created with CodeSandbox
+Start by checking out the [objectives](src/objectives.md). 
